@@ -21,6 +21,11 @@ Cada commit debe tener un mensaje.
 🔥 $git push origin master // Envia los cambios al repositorio remoto
 
 🔥 $git diff commitIdA commitIdB // Muestra los cambios que se han hecho entre un commit X y uno Y, el orden determina la linealidad de los cambios
+🔥 $git diff // freddy lo uso para ver los cambios entre lo que tengo en disco y lo que tengo en la ram
+
+🔥 $git checkout // Cambia el estado de los archivos a la ultima version
+🔥 $git checkout commitIDA // Cambia el estado de los archivos a la version especificada 
+🔥 $git checkout commitIDA historia.txt // Cambia el estado de un archivo a el de una version espesifica
 
 
 """
