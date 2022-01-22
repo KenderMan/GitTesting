@@ -20,5 +20,7 @@ Cada commit debe tener un mensaje.
 🔥 $git log biogragia.txt // Muestra los commits de un archivo
 🔥 $git push origin master // Envia los cambios al repositorio remoto
 
+🔥 $git diff commitIdA commitIdB // Muestra los cambios que se han hecho entre un commit X y uno Y, el orden determina la linealidad de los cambios
+
 
 """
