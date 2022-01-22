@@ -27,5 +27,12 @@ Cada commit debe tener un mensaje.
 🔥 $git checkout commitIDA // Cambia el estado de los archivos a la version especificada 
 🔥 $git checkout commitIDA historia.txt // Cambia el estado de un archivo a el de una version espesifica
 
+🔥 $git branch cabecera // Crea una nueva branch llamada cabecera
+checkout tambien sirve para moverse entre las branches, cambiando el estado de los archivos
+
+
+Comandos para moverse en la consola vim _ Shift + Esc + Z + Z // salir y guardar los cambios
+
+
 
 """

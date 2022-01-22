@@ -20,3 +20,8 @@ body{
     border-radius: 10px;
 
 }
+
+.cabecera:hover{
+    color : red;
+    background-color: yellow;
+}
